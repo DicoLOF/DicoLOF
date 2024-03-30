@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DicoLOF&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Dico-PHP" height="30" width="40" src="https://e7.pngegg.com/pngimages/418/897/png-clipart-php-php.png">
+  <img align="center" alt="Dico-PHP" height="30" width="40" src="https://pngimg.com/d/php_PNG23.png">
   <img align="center" alt="Dico-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dico-Js" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/888/888879.png">  
   <img align="center" alt="Dico-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
